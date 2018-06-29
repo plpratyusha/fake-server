@@ -1,30 +1,31 @@
-
-[
-  {
-	"name":"A",
-	"phone":"",
-	"email":"",
-	"someTrue":true,
-	"someFalse":false,
-	"someNum":0,
-	"id":1
-  },
-  {
-	"name":"B",
-	"phone":"",
-	"email":"",
-	"someTrue":true,
-	"someFalse":false,
-	"someNum":4,
-	"id":2
-  },
-  {
-	"name":"C",
-	"phone":"",
-	"email":"",
-	"someTrue":true,
-	"someFalse":false,
-	"someNum":8,
-	"id":3
-  }
-]
+{
+	"profiles":	[
+	  {
+		"name":"A",
+		"phone":"",
+		"email":"",
+		"someTrue":true,
+		"someFalse":false,
+		"someNum":0,
+		"id":1
+	  },
+	  {
+		"name":"B",
+		"phone":"",
+		"email":"",
+		"someTrue":true,
+		"someFalse":false,
+		"someNum":4,
+		"id":2
+	  },
+	  {
+		"name":"C",
+		"phone":"",
+		"email":"",
+		"someTrue":true,
+		"someFalse":false,
+		"someNum":8,
+		"id":3
+	  }
+	]
+}
