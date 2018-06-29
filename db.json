@@ -1,17 +1,30 @@
+
 [
   {
-    "id": 1,
-    "title": "Post 1"
+	"name":"A",
+	"phone":"",
+	"email":"",
+	"someTrue":true,
+	"someFalse":false,
+	"someNum":0,
+	"id":1
   },
   {
-    "id": 2,
-    "title": "Post 2"
+	"name":"B",
+	"phone":"",
+	"email":"",
+	"someTrue":true,
+	"someFalse":false,
+	"someNum":4,
+	"id":2
   },
   {
-    "id": 3,
-    "title": "Post 3"
+	"name":"C",
+	"phone":"",
+	"email":"",
+	"someTrue":true,
+	"someFalse":false,
+	"someNum":8,
+	"id":3
   }
 ]
-
-
-
