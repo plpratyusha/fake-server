@@ -1,7 +1,7 @@
 {
 	"profiles":	[
 	  {
-		"name":"A",
+		"custName":"A",
 		"phone":"",
 		"email":"",
 		"someTrue":true,
@@ -10,7 +10,7 @@
 		"id":1
 	  },
 	  {
-		"name":"B",
+		"custName":"B",
 		"phone":"",
 		"email":"",
 		"someTrue":true,
@@ -19,7 +19,7 @@
 		"id":2
 	  },
 	  {
-		"name":"C",
+		"custName":"C",
 		"phone":"",
 		"email":"",
 		"someTrue":true,
@@ -28,4 +28,5 @@
 		"id":3
 	  }
 	]
+
 }
