@@ -2,8 +2,8 @@
 	"profiles":	[
 	  {
 		"custName":"A",
-		"phone":"",
-		"email":"",
+		"phone":"1234567890",
+		"email":"a@a",
 		"someTrue":true,
 		"someFalse":false,
 		"someNum":0,
@@ -11,8 +11,8 @@
 	  },
 	  {
 		"custName":"B",
-		"phone":"",
-		"email":"",
+		"phone":"2345678901",
+		"email":"b@b",
 		"someTrue":true,
 		"someFalse":false,
 		"someNum":4,
@@ -20,8 +20,8 @@
 	  },
 	  {
 		"custName":"C",
-		"phone":"",
-		"email":"",
+		"phone":"3456789012",
+		"email":"c@c",
 		"someTrue":true,
 		"someFalse":false,
 		"someNum":8,
